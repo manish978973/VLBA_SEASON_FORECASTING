@@ -4,7 +4,7 @@
 <p1>A weather forecasting tool built using Machine learning tools (Prophet) which predicts the weather data and hence finds the flights routes as its linked with flight API.</p1>
 
 <p2>
-<h3>Facebook Prophet</h3>
+  <h3><u>Facebook Prophet</u></h3>
 Prophet is an open soruce forecasting tool by Facebook. It can be used for forecasting
 time series data based on an additive model where non-linear trends are fit with yearly,
 weekly, and daily seasonality, plus holiday effects. It works best with time series that
@@ -16,6 +16,7 @@ predict the weather data.
 <br>
 
 <p3>
+  <h4>FLIGHT API</h4>
 We are using FLIGHTLOOKUP API for building flight connection. It is a better choice
 as it has the dynamic multi connection engine and has trusted partner of airlines. Also
 the multi linguistic support and comprehensive metadata like air craft codes and airport
