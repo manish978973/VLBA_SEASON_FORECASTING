@@ -13,7 +13,7 @@ parameters for seasonality in prophet enable adjustment of historical cycles. It
 automated and we are using it with LSTM (Long Short Term Memory) in order to
 predict the weather data.
 </p2>
-
+</l>
 
 <p3>
 We are using FLIGHTLOOKUP API for building flight connection. It is a better choice
