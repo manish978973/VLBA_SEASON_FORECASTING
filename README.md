@@ -1,4 +1,4 @@
-<h1>VLBA_SEASON_FORECASTING</h1>
+<h1>SEASON_FORECASTING BASED ON PROPHET</h1>
 
 <h2>Description of Weather forecasting tool</h1>
 <p1>A weather forecasting tool built using Machine learning tools (Prophet) which predicts the weather data and hence finds the flights routes as its linked with flight API.</p1>
