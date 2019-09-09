@@ -3,6 +3,8 @@
 <h2>Description of Weather forecasting tool</h1>
 <p1>A weather forecasting tool built using Machine learning tools (Prophet) which predicts the weather data and hence finds the flights routes as its linked with flight API.</p1>
 
+The set up was completely deployed and tested on <a href="https://jupyter.org/">Jupyter Notebook</a> and based on Python programming language. Hence appropriate versions of Python and Jupyter notebook need to be installed in our machine to flag off the project.
+
 <p2>
   <h3><u>Facebook Prophet</u></h3>
   <a href="https://facebook.github.io/prophet/docs/quick_start.html">Prophet</a> is an open soruce forecasting tool by Facebook. It can be used for forecasting
@@ -22,3 +24,7 @@ as it has the dynamic multi connection engine and has trusted partner of airline
 the multi linguistic support and comprehensive metadata like air craft codes and airport
 station information are provided by this API which can be very useful for our system.
   </p3>
+  
+  ### FUNCTIONALITY
+  
+  Once the model is trained using Prophet the end user is supposed to input the date they intend to travel and the the temperature they would want to cop up with. Following these inputs and the predictions the model predicts the best place they can opt based on their preferences and also the best flights based on the information gathered from the linked APIs.
