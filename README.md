@@ -21,7 +21,6 @@ predict the weather data.
  ### FLIGHT API
 <p3>
  
-  <br>
 We are using FLIGHTLOOKUP API for building flight connection. It is a better choice
 as it has the dynamic multi connection engine and has trusted partner of airlines. Also
 the multi linguistic support and comprehensive metadata like air craft codes and airport
