@@ -14,7 +14,6 @@ automated and we are using it with LSTM (Long Short Term Memory) in order to
 predict the weather data.
 </p2>
 <br>
-
 <p3>
   <h4>FLIGHT API</h4>
   <br>
