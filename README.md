@@ -5,8 +5,10 @@
 
 The set up was completely deployed and tested on <a href="https://jupyter.org/">Jupyter Notebook</a> and based on Python programming language. Hence appropriate versions of Python and Jupyter notebook need to be installed in our machine to flag off the project.
 
+### FACEBOOK PROPHET 
+
 <p2>
-  <h3><u>Facebook Prophet</u></h3>
+ 
   <a href="https://facebook.github.io/prophet/docs/quick_start.html">Prophet</a> is an open soruce forecasting tool by Facebook. It can be used for forecasting
 time series data based on an additive model where non-linear trends are fit with yearly,
 weekly, and daily seasonality, plus holiday effects. It works best with time series that
@@ -16,8 +18,9 @@ automated and we are using it with LSTM (Long Short Term Memory) in order to
 predict the weather data.
 </p2>
 <br>
+ ### FLIGHT API
 <p3>
-  <h4>FLIGHT API</h4>
+ 
   <br>
 We are using FLIGHTLOOKUP API for building flight connection. It is a better choice
 as it has the dynamic multi connection engine and has trusted partner of airlines. Also
