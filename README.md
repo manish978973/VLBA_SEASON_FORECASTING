@@ -1,11 +1,11 @@
-<h1>SEASON_FORECASTING BASED ON PROPHET</h1>
+<h1>SEASONAL FORECASTING BASED ON PROPHET TOOL FOR PERIODIC CASES</h1>
 
 <h2>Description of Weather forecasting tool</h1>
 <p1>A weather forecasting tool built using Machine learning tools (Prophet) which predicts the weather data and hence finds the flights routes as its linked with flight API.</p1>
 
 <p2>
   <h3><u>Facebook Prophet</u></h3>
-Prophet is an open soruce forecasting tool by Facebook. It can be used for forecasting
+  <a href="https://facebook.github.io/prophet/docs/quick_start.html">Prophet</a> is an open soruce forecasting tool by Facebook. It can be used for forecasting
 time series data based on an additive model where non-linear trends are fit with yearly,
 weekly, and daily seasonality, plus holiday effects. It works best with time series that
 have strong seasonal effects and several seasons of historical data. The smoothening
